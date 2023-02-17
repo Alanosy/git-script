@@ -60,7 +60,7 @@ if __name__ == "__main__":
         elif num == "5":
             git.get_log()
             git.reset_s()
-        elif num == 0:
+        elif num == "0":
             break
         else:
             pass
